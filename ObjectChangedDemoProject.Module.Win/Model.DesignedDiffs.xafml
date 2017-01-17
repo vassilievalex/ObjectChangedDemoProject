@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Options UIType="TabbedMDI" FormStyle="Ribbon" />
+  <SchemaModules>
+    <SchemaModule Name="CloneObjectModule" Version="16.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="16.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="16.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
